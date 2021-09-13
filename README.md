@@ -3,3 +3,4 @@
 常用软件：
 1. 文本编辑器 notepad3 : https://www.rizonesoft.com/downloads/notepad3/
 2. IntelliJ
+3. redis客户端 https://github.com/qishibo/AnotherRedisDesktopManager
